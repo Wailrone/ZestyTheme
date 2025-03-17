@@ -29,7 +29,7 @@ Two login wallpaper options: Minimal and Stylish.
 To add the theme to Jellyfin, copy the following line to Dashboard > General > Custom CSS:
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/theme.css');
+@import url('https://raw.githubusercontent.com/Wailrone/ZestyTheme/refs/heads/main/theme.css');
 ```
 Then, if you haven't already, enable Backdrops for _every_ device using this theme (Settings > Display > Backdrops).¹ 
 
@@ -56,7 +56,7 @@ The default color scheme.
 <img src="./images/colorschemes/blue.png" alt="blue" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/blue.css');
+@import url('https://raw.githubusercontent.com/Wailrone/ZestyTheme/refs/heads/main/colorschemes/blue.css');
 ```
 
 <details>
@@ -73,7 +73,7 @@ The default color scheme.
 <img src="./images/colorschemes/coral.png" alt="coral" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/coral.css');
+@import url('https://raw.githubusercontent.com/Wailrone/ZestyTheme/refs/heads/main/colorschemes/coral.css');
 ```
 
 <details>
@@ -90,7 +90,7 @@ The default color scheme.
 <img src="./images/colorschemes/gray.png" alt="gray" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/gray.css');
+@import url('https://raw.githubusercontent.com/Wailrone/ZestyTheme/refs/heads/main/colorschemes/gray.css');
 ```
 
 <details>
@@ -107,7 +107,7 @@ The default color scheme.
 <img src="./images/colorschemes/green.png" alt="green" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/green.css');
+@import url('https://raw.githubusercontent.com/Wailrone/ZestyTheme/refs/heads/main/colorschemes/green.css');
 ```
 
 <details>
@@ -124,7 +124,7 @@ The default color scheme.
 <img src="./images/colorschemes/purple.png" alt="purple" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/purple.css');
+@import url('https://raw.githubusercontent.com/Wailrone/ZestyTheme/refs/heads/main/colorschemes/purple.css');
 ```
 
 <details>
@@ -141,7 +141,7 @@ The default color scheme.
 <img src="./images/colorschemes/red.png" alt="red" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/red.css');
+@import url('https://raw.githubusercontent.com/Wailrone/ZestyTheme/refs/heads/main/colorschemes/red.css');
 ```
 
 <details>
@@ -158,7 +158,7 @@ The default color scheme.
 <img src="./images/colorschemes/yellow.png" alt="yellow" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/yellow.css');
+@import url('https://raw.githubusercontent.com/Wailrone/ZestyTheme/refs/heads/main/colorschemes/yellow.css');
 ```
 
 <details>
